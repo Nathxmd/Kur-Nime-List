@@ -10,12 +10,12 @@
   box-sizing: border-box;
 }
 
-img {
+#kotak {
   transition: 0.3s ease all;
   cursor: pointer;
 }
 
-img:hover {
+#kotak:hover {
   transform: scale(1.05);
 }
 
