@@ -10,7 +10,7 @@ const Page = async () => {
       <Image src={user.image} alt="..." width={250} height={250} />
       <div className="flex flex-wrap gap-4 py-8">
         <Link
-          href="/users/dashboard/bookmark"
+          href="/users/dashboard/collection"
           className="bg-color-accent text-color-dark font-bold py-3 px-4 text-xl"
         >
           My Bookmark
